@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Testando",
+      "author": "Professor",
+      "id": 2
+    },
+    {
+      "title": "[object Object]",
+      "id": 3
+    },
+    {
+      "title": "[object Object]",
+      "id": 4
+    },
+    {
+      "title": "testando",
+      "id": 5
+    },
+    {
+      "usuario": "testando",
+      "senha": "123445",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
